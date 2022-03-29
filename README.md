@@ -31,7 +31,7 @@ Images of the applications can be found on this [google drive link](https://driv
 ![overview_img](https://github.com/Swirl86/consid-event-app/blob/main/overview_img.png)
 
 ### Guest Event App store links
-[Google play](https://drive.google.com/file/d/1Rt3zGxZv4mb0_2fwq0uhcozLxLuU9x2b/view)  and 
+[Google play](https://play.google.com/store/apps/details?id=mobility.consid.se.navyseal_flutter)  and 
 [Apple Store](https://apps.apple.com/se/app/consid-event-app/id1611344474)
 
 
